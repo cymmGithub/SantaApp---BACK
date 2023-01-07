@@ -1,8 +1,5 @@
-
 export interface ChildEntity {
-    id?: string;
-    name: string;
-    giftId: string;
+  id?: string;
+  name: string;
+  giftId: string;
 }
-
-
