@@ -1,4 +1,4 @@
-# SantaApp---BACK
+# SantaApp Backend
 
 Backend for Santa App Made with:
 
